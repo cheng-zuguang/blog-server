@@ -2,6 +2,6 @@
 
 **里面实现了对用户的增删改查功能**
 
-![login](./login.png)
+![login](./login.jpg)
 
-![index](./index.png)
+<img src="./index.jpg" alt="index" style="zoom:50%;" />
