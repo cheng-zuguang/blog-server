@@ -2,6 +2,6 @@
 
 **里面实现了对用户的增删改查功能**
 
-![login](login.png)
+![login](./login.png)
 
-![index](index.png)
+![index](./index.png)
