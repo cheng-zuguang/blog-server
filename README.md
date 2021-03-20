@@ -2,4 +2,6 @@
 
 **里面实现了对用户的增删改查功能**
 
-![index](F:\PHPStudty\PHPTutorial\WWW\baixiu\index.png)![login](F:\PHPStudty\PHPTutorial\WWW\baixiu\login.png)
+![login](login.png)
+
+![index](index.png)
