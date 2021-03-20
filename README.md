@@ -2,6 +2,6 @@
 
 **里面实现了对用户的增删改查功能**
 
-![login](./login.jpg)
+![login](https://github.com/cheng-zuguang/blog-server/raw/master/login.jpg)
 
-<img src="./index.jpg" alt="index" style="zoom:50%;" />
+![login](https://github.com/cheng-zuguang/blog-server/raw/master/index.jpg)
