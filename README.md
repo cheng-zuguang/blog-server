@@ -2,6 +2,7 @@
 
 **里面实现了对用户的增删改查功能**
 
-![login](https://github.com/cheng-zuguang/blog-server/raw/master/login.jpg)
+![login](https://github.com/cheng-zuguang/blog-server/blob/master/login.jpg)
 
-![login](https://github.com/cheng-zuguang/blog-server/raw/master/index.jpg)
+![login](https://github.com/cheng-zuguang/blog-server/blob/master/index.jpg)
+
